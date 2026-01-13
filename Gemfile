@@ -73,4 +73,4 @@ group :test do
 end
 
 gem "mutex_m", "~> 0.3.0"
-gem 'jsbundling-rails'
+gem "jsbundling-rails"
